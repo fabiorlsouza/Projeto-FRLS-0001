@@ -1,0 +1,6 @@
+git status
+sleep 10
+git add -A
+git commit -m 'Commit pelo comando .publicar'
+git push origin main
+echo "Publicado!"

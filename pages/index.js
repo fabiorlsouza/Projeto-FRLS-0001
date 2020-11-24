@@ -17,7 +17,7 @@ function Home() {
             Rua blablabla, No 010101 <br></br>
             Bairro Quebrada do Abramoff - Osasco City - SP<br></br>
             Brasil - CEP 00000-000<br></br>
-            Telefone: liga pra sua mãe e faça o pedido pra ela!<br></br>
+            Telefone: liga pra sua mãe e pede pra ela!<br></br>
             <br></br>
             <br></br>
             <hr></hr>
@@ -26,7 +26,7 @@ function Home() {
             Rua mehmehmeh, No 101010 <br></br>
             Bairro Consertada do Abramoff - Osasco City - SP<br></br>
             Brasil - CEP 11111-111<br></br>
-            Telefone: liga pro seu pai e faça o pedido pra ela!<br></br>
+            Telefone: liga pro seu pai e pede pra ele!<br></br>
             <br></br>
             <br></br>
             <hr></hr>

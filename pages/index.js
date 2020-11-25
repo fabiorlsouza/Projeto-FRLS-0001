@@ -51,7 +51,7 @@ function Home() {
                 <hr></hr>
 
                 <br></br>
-                <p> Deus te livre da sua feiura de Osaskense!</p>
+                <p> Deus te abençoe!</p>
                 <p> Todos os direitos reservados.</p>
                 <br></br>
 

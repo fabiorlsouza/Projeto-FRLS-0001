@@ -10,24 +10,13 @@ function Home() {
                 <br></br>
                 <center><h1>Lojinhas do Abramoff</h1></center>
                 <br></br>
-
+                
                 <hr></hr>
-            
+
                 <br></br>
                 <p>Bem vindo ao site das lojinhas do Abramoff, onde  nos preocupamos em cuidar de você acima de tudo!</p>
-                
-                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
-                
-                <div class="topnav" id="myTopnav">
-                    <a href="#home" class="active"> Home </a>
-                    <a href="#noticias"> Notícias </a>
-                    <a href="#contato"> Contato </a>
-                    <a href="#sobre"> Sobre nós </a>
-                    <a href="javascript:void(0);" class="icon" onclick="myFunction()"></a>
-                        <i class="fa fa-bars"></i>
-                </div>
+                          
                 <br></br>
-
                 <hr></hr>
 
                 <br></br>

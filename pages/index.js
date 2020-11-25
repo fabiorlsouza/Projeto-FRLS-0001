@@ -7,55 +7,62 @@ function Home() {
                 <title>Site das lojinhas do Abramoff</title>
             </head>
             <body>
-            <center><h1>Lojinhas do Abramoff</h1></center>
-            <br></br>
+                <br></br>
+                <center><h1>Lojinhas do Abramoff</h1></center>
+                <br></br>
 
-            <hr></hr>
+                <hr></hr>
             
-            <br></br>
-            <p>Bem vindo ao site das lojinhas do Abramoff, onde  nos preocupamos em cuidar de você acima de tudo!</p>
-            <br></br>
+                <br></br>
+                <p>Bem vindo ao site das lojinhas do Abramoff, onde  nos preocupamos em cuidar de você acima de tudo!</p>
+                
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+                
+                <div class="topnav" id="myTopnav">
+                    <a href="#home" class="active"> Home </a>
+                    <a href="#noticias"> Notícias </a>
+                    <a href="#contato"> Contato </a>
+                    <a href="#sobre"> Sobre nós </a>
+                    <a href="javascript:void(0);" class="icon" onclick="myFunction()"></a>
+                        <i class="fa fa-bars"></i>
+                </div>
+                <br></br>
 
-            <hr></hr>
+                <hr></hr>
 
-            <br></br>
-            <h2>Endereço da unidade 1:</h2>
-            Rua blablabla, No 010101 <br></br>
-            Bairro Quebrada do Abramoff - Osasco City - SP<br></br>
-            Brasil - CEP 00000-000<br></br>
-            Telefone: liga pra sua mãe e pede pra ela!<br></br>
-            <br></br>
-            <br></br>
+                <br></br>
+                <h2>Loja da Vila Menck:</h2>
+                Av. Presidente Médici, 2655 <br></br>
+                Vila Menck - Osasco - SP<br></br>
+                Brasil - CEP 06273-000<br></br>
+                <br></br>
+                <br></br>
 
-            <hr></hr>
+                <hr></hr>
 
-            <br></br>
-            <h2>Endereço da unidade 2:</h2>
-            Rua mehmehmeh, No 101010 <br></br>
-            Bairro Consertada do Abramoff - Osasco City - SP<br></br>
-            Brasil - CEP 11111-111<br></br>
-            Telefone: liga pro seu pai e pede pra ele!<br></br>
-            <br></br>
-            <br></br>
+                <br></br>
+                <h2>Loja da Vila Jaguara:</h2>
+                Av. Cândido Portinari, 656 <br></br>
+                Vila Jaguara - Osasco - SP<br></br>
+                Brasil - CEP 05114-0011<br></br>
+                <br></br>
+                <br></br>
 
-            <hr></hr>
+                <hr></hr>
 
-            <br></br>
-            <p> Deus te livre da sua feiura de Osaskense!</p>
-            <p> Todos os direitos reservados.</p>
-            <br></br>
+                <br></br>
+                <p> Deus te livre da sua feiura de Osaskense!</p>
+                <p> Todos os direitos reservados.</p>
+                <br></br>
 
-            <p id="demo"></p>
-            
-            <script>
-                var d = new Date();
-                document.getElementById("demo").innerHTML = d;
-            </script>
-            
+                <button type="button" onclick="document.getElementById('demo').innerHTML = Data()">CLICK ME!</button>
+
+                <p id="demo"></p>
+
             </body>
         </html>
     </div>
     )
 }
-    
+
 export default Home
